@@ -1,0 +1,1 @@
+Apenas para documentar o projeto de documentação no Git.
